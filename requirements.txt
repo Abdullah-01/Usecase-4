@@ -1,3 +1,5 @@
-FastAPI
+fastapi
 joblib
+pydantic
+scikit-learn
 uvicorn
